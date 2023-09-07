@@ -1,0 +1,8 @@
+auraloss
+cargan
+fastdtw
+librosa
+pesq
+pysptk
+torchaudio
+tqdm
